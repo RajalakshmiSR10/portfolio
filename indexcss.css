@@ -172,6 +172,7 @@ padding: 5px 15px;
     .home-img img{
     border-radius: 10px;
 height: 300px;
+width: 200px;
 border: 3px solid plum;
  } 
  .home-info{
@@ -773,7 +774,7 @@ textarea.form-control{
 }
 .project-item{
     flex: 0 0 80%;
-    max-width: 80%;
+    max-width: 90%;
     margin-bottom: 30px;
     border: 3px solid var(--bg-black-50);
 }
